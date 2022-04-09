@@ -1,0 +1,64 @@
+[
+  
+  {
+    "title": "7 issues in autotests from my experience",
+    "url": "/posts/auto-tests-issues/",
+    "categories": "Programming, Code quality",
+    "tags": "unit tests, C#, integration tests, experience",
+    "date": "2021-02-27 14:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "In my practice I’ve seen projects with different approaches to testing: some were 99% covered by unit tests, while others had no tests at all. In this article, I want to highlight the typical problems with automated tests I faced during my career and how to solve them.Every good software engineer..."
+  },
+  
+  {
+    "title": "Transactions in DynamoDB",
+    "url": "/posts/transactions-dynamodb/",
+    "categories": "Programming, .NET",
+    "tags": ".NET, DynamoDB, AWS, NoSQL, transactions, ACID",
+    "date": "2020-09-29 00:00:00 +0300",
+    
+
+
+
+
+
+    "snippet": "NoSQL vs. SQLFor many years, relational databases dominated software development. SQL has become one of the most popular programming languages. But at the beginning of the 21st century, the WEB 2.0 and the needs of big companies such as Google and Facebook made a revolution in data storage.Strict..."
+  },
+  
+  {
+    "title": "Gready algorithms",
+    "url": "/posts/greedy-algorithms/",
+    "categories": "Programming, Algorithms",
+    "tags": "algorithms, codility.com",
+    "date": "2020-05-08 18:30:00 +0300",
+    
+
+
+
+
+
+    "snippet": "Greedy algorithm is an intuitive and efficient way to solve optimization problems. And although its implementation attracts with its obviousness, it is not always optimal. You need to understand precisely when to use a greedy approach and when to avoid it. In the article I suggest to look into gr..."
+  },
+  
+  {
+    "title": "LINQ. Overview",
+    "url": "/posts/linq-overview/",
+    "categories": "Programming, .NET",
+    "tags": "C#, LINQ",
+    "date": "2020-05-01 18:35:30 +0300",
+    
+
+
+
+
+
+    "snippet": "In this article, we will look into LINQ as an important component of the .NET framework, its history, and its role. Why it was created and how to use this tool in practice. Finally, we will look at examples in C# that give an idea of ​​what LINQ is.LINQ - (language integrated query) - a query dat..."
+  }
+  
+]
+
